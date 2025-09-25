@@ -3,6 +3,7 @@
 📈 - I'm someone who's always trying to improve on life and on everything that i do, doesn't matter if its a hobby or a job, i'm always gonna be ready to improve my skills and show how capable i am! <br/>
 🎓 - Graduated in the well-know [ETEC](https://www.cps.sp.gov.br/etec/) on Analistics and Development of Programs. <br/>
 💼 - As of now, i'm looking for a job in the programming field, still deciding on a specific field but if it involves programming, i'm down for it. <br/>
+📚 - At the moment i'm studying about QA (Quality Assurance) on [Alura](https://www.alura.com.br/). <br/>
 
 ## 📖 Skills:
 
